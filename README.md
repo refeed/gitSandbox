@@ -1,1 +1,3 @@
 # gitSandbox
+
+Just a sandbox.
